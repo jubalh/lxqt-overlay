@@ -3,7 +3,7 @@ How to Contribute to this Overlay
 =================================
 
 :author: Michael Vetter
-:contact: g.bluthut@gmail.com
+:contact: g.bluehut@gmail.com
 :language: English, German
 
 Greetings GitHub Users!
