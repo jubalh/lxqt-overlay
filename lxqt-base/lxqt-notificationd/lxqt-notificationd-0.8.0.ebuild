@@ -1,6 +1,4 @@
-# Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: /var/cvsroot/gentoo-x86/lxqt-base/lxqt-notificationd/lxqt-notificationd-0.8.0.ebuild,v 1.3 2014/11/23 16:21:10 jauhien Exp $
 
 EAPI=5
 inherit cmake-utils

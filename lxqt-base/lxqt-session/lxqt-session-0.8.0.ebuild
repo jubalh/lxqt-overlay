@@ -1,6 +1,4 @@
-# Copyright 1999-2014 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: /var/cvsroot/gentoo-x86/lxqt-base/lxqt-session/lxqt-session-0.8.0.ebuild,v 1.2 2014/11/16 12:42:27 jauhien Exp $
 
 EAPI=5
 
