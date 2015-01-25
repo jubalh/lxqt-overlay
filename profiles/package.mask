@@ -1,0 +1,16 @@
+#Mask until Qt5 is unmasked (see gentoo bug #525410)
+=lxqt-base/liblxqt-0.8.0*
+=lxqt-base/liblxqt-mount-0.8.0*
+=lxqt-base/libsysstat-0.2.0*
+=lxqt-base/lxqt-about-0.8.0*
+=lxqt-base/lxqt-common-0.8.0*
+=lxqt-base/lxqt-config-0.8.0*
+=lxqt-base/lxqt-globalkeys-0.8.0*
+=lxqt-base/lxqt-meta-0.8.0*
+=lxqt-base/lxqt-notificationd-0.8.0*
+=lxqt-base/lxqt-panel-0.8.0*
+=lxqt-base/lxqt-policykit-0.8.0*
+=lxqt-base/lxqt-powermanagement-0.8.0*
+=lxqt-base/lxqt-qtplugin-0.8.0*
+=lxqt-base/lxqt-runner-0.8.0*
+=lxqt-base/lxqt-session-0.8.0*
