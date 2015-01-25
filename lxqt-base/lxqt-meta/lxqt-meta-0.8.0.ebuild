@@ -7,7 +7,7 @@ HOMEPAGE="http://lxqt.org/"
 
 LICENSE="metapackage"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="*"
 IUSE="admin icons lightdm lximage -minimal +policykit powermanagement sddm ssh-askpass"
 
 S="${WORKDIR}"
