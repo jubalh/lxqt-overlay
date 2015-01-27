@@ -1,1 +1,1 @@
-USE="dbus consolekit policykit introspection pulseaudio"
+USE="dbus consolekit policykit"
