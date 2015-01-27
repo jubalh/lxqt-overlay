@@ -1,4 +1,0 @@
-# profiles.eselect.desc - List of profiles for use with eselect
-# Type		Name							Status		NoMix
-
-mix-ins		lxqt-overlay/mix-ins/lxqt		stable
