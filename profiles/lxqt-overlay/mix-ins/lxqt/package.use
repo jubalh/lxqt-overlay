@@ -1,1 +1,3 @@
 lxqt-base/lxqt-meta powermanagement
+sys-auth/polkit-qt qt5
+dev-qt/qtchooser qt5
